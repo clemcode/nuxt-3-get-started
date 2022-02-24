@@ -1,5 +1,6 @@
 <template>
   <main>
-    <h1>Let's learn Nuxt!</h1>
+    <h1>Hello Nuxt!</h1>
+    <p>Let's build the future web together!</p>
   </main>
 </template>
