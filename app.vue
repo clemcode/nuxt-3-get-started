@@ -1,8 +1,10 @@
 <template>
-  <main class="container">
-    <h1>Let's learn Nuxt!</h1>
-    <p>Let's build the future web together!</p>
-  </main>
+  <div>
+    <AppHeader />
+    <main class="container">
+      <NuxtPage />
+    </main>
+  </div>
 </template>
 
 <style>
