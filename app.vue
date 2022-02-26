@@ -6,7 +6,7 @@
 </template>
 
 <style>
-@import '/public/pico.css';
+@import '/assets/pico.css';
 
 h1 {
   text-align: center;
