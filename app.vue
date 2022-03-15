@@ -1,14 +1,15 @@
 <template>
-  <main class="container">
-    <h1>Let's learn Nuxt!</h1>
-    <p>Let's build the future web together!</p>
-  </main>
+	<main>
+		<h1>Mountains explorer</h1>
+		<figure>
+		    <blockquote>
+		        <p>The mountains are calling and I must go.</p>
+		    </blockquote>
+		    <figcaption>John Muir</figcaption>
+		</figure>
+	</main>
 </template>
 
 <style>
-@import '/assets/pico.css';
-
-h1 {
-  text-align: center;
-}
+@import '/assets/style.css';
 </style>
